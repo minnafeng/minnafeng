@@ -24,3 +24,11 @@
 ---
 
 ### :woman_technologist: About Me :
+
+I am U2 student at McGill University studying Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montreal.
+
+- :desktop_computer: This summer, I'm working as a System Operations intern at Bell Canada.
+- :seedling: Exploring AI/ML
+- :zap: In my free time, I do creative writing and play music. 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Minna_Feng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minna-feng/) or at minnafeng02@gmail.com
+
