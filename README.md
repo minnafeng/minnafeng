@@ -29,7 +29,7 @@ I am U2 student at McGill University studying Computer Science <img src="https:/
 
 - :desktop_computer: This summer, I'm working as a System Operations intern at Bell Canada.
 - :seedling: Exploring web design and AI/ML.
-- :zap: In my free time, I do creative writing and play music. 
+- :zap: I spend my free time creative writing and playing music. 
 
 ### :handshake: Connect with me :
 <a href="https://www.linkedin.com/in/minna-feng/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="Linkedin" width="30" hspace="20"></a>
