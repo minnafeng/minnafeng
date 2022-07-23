@@ -30,8 +30,11 @@ I am U2 student at McGill University studying Computer Science <img src="https:/
 - :desktop_computer: This summer, I'm working as a System Operations intern at Bell Canada.
 - :seedling: Exploring AI/ML
 - :zap: In my free time, I do creative writing and play music. 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Minna_Feng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minna-feng/) or at minnafeng02@gmail.com
 
+### :handshake: Connect with me :
+<a href="https://www.linkedin.com/in/minna-feng/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="Linkedin" width="30" hspace="20"></a>
+<a href="mailto:minnafeng02@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>
+<a href="https://www.instagram.com/minnafeng/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="Instagram" width="30" hspace="20"></a>
 ---
 
 ### :keyboard: Languages :
