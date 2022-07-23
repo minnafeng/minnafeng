@@ -28,7 +28,7 @@
 I am U2 student at McGill University studying Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montreal.
 
 - :desktop_computer: This summer, I'm working as a System Operations intern at Bell Canada.
-- :seedling: Exploring AI/ML
+- :seedling: Exploring web design and AI/ML.
 - :zap: In my free time, I do creative writing and play music. 
 
 ### :handshake: Connect with me :
