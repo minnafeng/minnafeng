@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="400" height="300"/>
 </div>
 
 ---
@@ -64,6 +64,11 @@ I am U2 student at McGill University studying Computer Science <img src="https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
  </div>
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minnafeng&theme=dark&background=000000)](https://git.io/streak-stats)
+ ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minnafeng&theme=dark&background=000000)](https://git.io/streak-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnafeng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnafeng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
