@@ -25,10 +25,10 @@
 
 ### :woman_technologist: About Me :
 
-I am U2 student at McGill University studying Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montreal.
+I am U3 student at McGill University studying Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montreal.
 
-- :desktop_computer: This summer, I'm working as a System Operations intern at Bell Canada.
-- :seedling: Currently exploring backend development.
+- :desktop_computer: The past summer, I worked as a Software Developer intern at Autodesk!
+- :seedling: Currently exploring NLP and data science.
 - :zap: I spend my free time creative writing and playing music. 
 
 ### :handshake: Connect with me :
